@@ -37,6 +37,6 @@ Extraction Code: 2025
 The SEAR (Selective Ensemble Aggregation for Respiration) algorithm integrates a Dominant Frequency Selection (DFS) module with a Phase-Constrained Sparse Reconstruction (PCSR) module. The DFS module suppresses noise by adaptively selecting dominant respiratory frequencies from multi-channel signals, while the PCSR module enhances signal fidelity by enforcing phase consistency during sparse recovery. SEAR is the first method specifically designed for respiration monitoring from blurred video inputs, enabling robust extraction of respiratory signals under degraded visual conditions. 
 
 This is an overview of the pricacy-preserving contactless respiration monitoring system.
-![image](https://github.com/zxx5058/OVRM/blob/main/ImagesFolderForReadMe/Motion_artifact.png)
+![image](https://github.com/zxx5058/SEAR/blob/main/ImageFolder/SEAR%20diagram.png)
 
 
