@@ -39,4 +39,7 @@ The SEAR (Selective Ensemble Aggregation for Respiration) algorithm integrates a
 This is an overview of the pricacy-preserving contactless respiration monitoring system.
 ![image](https://github.com/zxx5058/SEAR/blob/main/ImageFolder/SEAR%20diagram.png)
 
+## ✨Experiment Result
+The following shows examples of respiratory signal waveforms corresponding to the subjects in the real-scene images.
+![image](https://github.com/zxx5058/SEAR/blob/main/ImageFolder/Respiratory%20SIgnal.png)
 
