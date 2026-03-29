@@ -1,5 +1,5 @@
 <h1 align="center">
- Privacy-preserved Contactless Respiration Monitoring via Defocused Video with Selective Ensemble Aggregation (SEAR)
+ Video-Based Privacy-Preserving Respiration Estimation Using Illumination-Robust and Quality-Guided Adaptive ROI Modeling
 </h1>
 
 <p align="center">
